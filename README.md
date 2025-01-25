@@ -10,8 +10,10 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
 
 ## Instalación de Dependencias
 
--descarga o clona el proyecto
-npm install
+-descarga o clona el proyecto<br>
+Instala las dependencias necesarias con esta instruccion ....:<br>
+
+npm install<br>
 ## Dependencias
 Este proyecto utiliza los siguientes paquetes:
 
